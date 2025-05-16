@@ -1,3 +1,5 @@
+**_THIS IS A JOKE FORK_**
+
 Yakshave is a fork of Yakuake which is a drop-down terminal emulator based on KDE Konsole technology.
 
 It's a KDE Extragear application released under GPL v2, GPL v3 or any later
